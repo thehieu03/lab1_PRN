@@ -1,0 +1,17 @@
+D:\DesigonParttern\Reponsitories\bin\Debug\net8.0\Reponsitories.deps.json
+D:\DesigonParttern\Reponsitories\bin\Debug\net8.0\Reponsitories.dll
+D:\DesigonParttern\Reponsitories\bin\Debug\net8.0\Reponsitories.pdb
+D:\DesigonParttern\Reponsitories\bin\Debug\net8.0\BusinessObjects.dll
+D:\DesigonParttern\Reponsitories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\DesigonParttern\Reponsitories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\DesigonParttern\Reponsitories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\DesigonParttern\Reponsitories\obj\Debug\net8.0\Reponsitories.csproj.AssemblyReference.cache
+D:\DesigonParttern\Reponsitories\obj\Debug\net8.0\Reponsitories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesigonParttern\Reponsitories\obj\Debug\net8.0\Reponsitories.AssemblyInfoInputs.cache
+D:\DesigonParttern\Reponsitories\obj\Debug\net8.0\Reponsitories.AssemblyInfo.cs
+D:\DesigonParttern\Reponsitories\obj\Debug\net8.0\Reponsitories.csproj.CoreCompileInputs.cache
+D:\DesigonParttern\Reponsitories\obj\Debug\net8.0\Reponsit.5DD25DF7.Up2Date
+D:\DesigonParttern\Reponsitories\obj\Debug\net8.0\Reponsitories.dll
+D:\DesigonParttern\Reponsitories\obj\Debug\net8.0\refint\Reponsitories.dll
+D:\DesigonParttern\Reponsitories\obj\Debug\net8.0\Reponsitories.pdb
+D:\DesigonParttern\Reponsitories\obj\Debug\net8.0\ref\Reponsitories.dll
