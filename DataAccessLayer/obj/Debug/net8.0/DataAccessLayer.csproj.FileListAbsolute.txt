@@ -1,0 +1,15 @@
+D:\DesigonParttern\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\DesigonParttern\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\DesigonParttern\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\DesigonParttern\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\DesigonParttern\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\DesigonParttern\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\DesigonParttern\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesigonParttern\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\DesigonParttern\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\DesigonParttern\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\DesigonParttern\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\DesigonParttern\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\DesigonParttern\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\DesigonParttern\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\DesigonParttern\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

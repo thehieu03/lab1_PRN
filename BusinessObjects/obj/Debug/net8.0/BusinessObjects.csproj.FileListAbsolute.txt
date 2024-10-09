@@ -1,0 +1,11 @@
+D:\DesigonParttern\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\DesigonParttern\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\DesigonParttern\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\DesigonParttern\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesigonParttern\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\DesigonParttern\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\DesigonParttern\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\DesigonParttern\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\DesigonParttern\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\DesigonParttern\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\DesigonParttern\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
